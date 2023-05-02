@@ -1,4 +1,4 @@
-# ecommerce shopping app ui
+# ecommerce shopping app ui - Flutter
 
 This project only contains the ui part only  
  
